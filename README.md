@@ -21,4 +21,4 @@
 
 ## 🏆 Dreamhack Stats
 
-[![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=Tjdmin1)](https://dreamhack.io/users/33534/wargame)
+[![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=BTB)](https://dreamhack.io/users/33534/wargame)
