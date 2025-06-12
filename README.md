@@ -1,4 +1,5 @@
-## I'm Kang.junho 
+## Hello! I'm BTB
+# Imf
 ## 🏆 Dreamhack Stats
 
 [![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=BTB)](https://dreamhack.io/users/33534/wargame)
