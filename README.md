@@ -1,7 +1,9 @@
 ## I'm Kang.junho 
 ## 🏆 Dreamhack Stats
 
-![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=33534)
+<a href="https://dreamhack.io/users/33534" target="_blank" rel="noopener noreferrer">
+  <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=33534" alt="Dreamhack Stats" />
+</a>
 
 ## 
 
