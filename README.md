@@ -1,4 +1,7 @@
-## I'm Junho'
+## I'm Kang.junho 
+## 🏆 Dreamhack Stats
+
+[![Dreamhack Stats](https://imgur.com/YOUR_IMAGE.png)](https://dreamhack.io/users/33534/wargame)
 
 ## 
 
