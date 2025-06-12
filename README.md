@@ -1,7 +1,7 @@
 ## I'm Kang.junho 
 ## 🏆 Dreamhack Stats
 
-[![Dreamhack Stats](https://imgur.com/YOUR_IMAGE.png)](https://dreamhack.io/users/33534/wargame)
+![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=BTB)
 
 ## 
 
