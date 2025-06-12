@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hi, I'm <strong>Kang.junho</strong></h2>
-<p align="center">💻 SMC-SECU 10th | 🎯 GoPro Programming Club</p>
+<p align="center">
+  💻 SMC-SECU 10th &nbsp;|&nbsp; 🎯 GoPro Programming Club &nbsp;|&nbsp; 🛡️ KITRI WhiteHat School 2nd
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/School-SMC--SECU-blue?style=flat-square&logo=google-scholar&logoColor=white" />
