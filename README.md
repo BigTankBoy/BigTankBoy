@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm <strong>Kang.junho</strong></h2>
 <p align="center">
-  💻 SMC-SECU 10th &nbsp;|&nbsp; 🎯 GoPro Programming Club &nbsp;|&nbsp; 🛡️ KITRI WhiteHat School 2nd
+  SMC-SECU 10th &nbsp;|&nbsp; GoPro Programming Club &nbsp;|&nbsp; KITRI WhiteHat School 2nd
 </p>
 
 <p align="center">
@@ -24,9 +24,34 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+## Awards & Achievements
+
+<p align="center">
+
+**현대오토에버 CTF** — 입상  
+**LG U+ 해커톤** — 특별상  
+**세명컴퓨터고 정보보안 챌린지** — 우수상  
+**중부대학교 CTF** — 총장상  
+**아주대학교 CTF** — 사업단장상  
+**한국남부발전 영남권 사이버보안대회** — 우수상  
+**사이버가디언즈 CTF** — 장려상  
+
+</p>
 
 ---
 
 ## Dreamhack Stats
 
-[![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=BTB)](https://dreamhack.io/users/33534/wargame)
+<p align="center">
+  <a href="https://dreamhack.io/users/33534/wargame">
+    <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=BTB" alt="Dreamhack Stats"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Passionate about cybersecurity, web hacking, and reversing</sub>
+</p>
