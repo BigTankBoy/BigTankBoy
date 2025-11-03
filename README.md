@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm <strong>Kang.junho</strong></h2>
 <p align="center">
-  SMC-SECU 10th &nbsp;|&nbsp; GoPro Programming Club &nbsp;|&nbsp; KITRI WhiteHat School 2nd
+  💻 SMC-SECU 10th &nbsp;|&nbsp; 🎯 GoPro Programming Club &nbsp;|&nbsp; 🛡️ KITRI WhiteHat School 2nd
 </p>
 
 <p align="center">
